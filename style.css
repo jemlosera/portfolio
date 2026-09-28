@@ -330,7 +330,7 @@ section{
 
 .skills .content .col-right .bar .css::before{
     width: 90%;
-    background-color: #0c73b8;
+    background-color: #f97316;
 }
 
 .skills .content .col-right .bar .javascript::before{
@@ -340,7 +340,7 @@ section{
 
 .skills .content .col-right .bar .java::before{
     width: 85%;
-    background-color: blue;
+    background-color: #f97316;
 }
 
 .skills .content .col-right .bar .php::before{
@@ -484,7 +484,7 @@ section{
   }
   
   .contact .content .row .card .contact-icon{
-    color: #3a6cf4;
+    color: #f97316;
     font-size: 4em;
     text-align: center;
     transition: transform 0.5s ease;
@@ -584,7 +584,7 @@ section{
   }
   
   .footer p a{
-    color: #3a6cf4;
+    color: #f97316;
     font-weight: 600;
     text-decoration: none;
   }
@@ -713,7 +713,7 @@ section{
 .scrollToTop-btn{
     z-index: 999;
     position: fixed;
-    background: #3a6cf4;
+    background: #f97316;
     color: #fff;
     width: 45px;
     height: 45px;
